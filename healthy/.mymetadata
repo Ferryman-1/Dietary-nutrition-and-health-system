@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="healthy"
+  id="myeclipse.1680061062251"
+  context-root="/healthy"
+  j2ee-spec="5.0"
+  archive="healthy.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
